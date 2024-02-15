@@ -24,7 +24,7 @@ function Header(){
         <>
             <header className="header">
             
-            <img src="/src/photos/logo.png" width="130px"/>
+            <img src="https://i.ibb.co/WDctnmH/logo.png" width="130px"/>
                 <div className="mainPageNav">
                     <NavLink className = "navButtons" to="clockedhours" style={({ isActive }) => isActive ? activeStyles : null}> Clocked Hours</NavLink>
                     <NavLink className = "navButtons" to="changepassword" style={({ isActive }) => isActive ? activeStyles : null}> Change Password </NavLink>

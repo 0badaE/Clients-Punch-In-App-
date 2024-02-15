@@ -7,7 +7,7 @@ function LoginLayout(){
     return (   
         <div className = "page dark">
             <div className = "logo-placer">
-                <img className = "placeholder-Logo" src="./src/photos/logo.png"/>
+                <img className = "placeholder-Logo" src="https://i.ibb.co/WDctnmH/logo.png"/>
             </div>
             <Outlet/>
         </div>
