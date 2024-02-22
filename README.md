@@ -15,8 +15,8 @@ specifically by recording the times employees punch in, break or out.
 The owners can retrieve the data from google firestore's portal.
 <br/>
 So far, it seems like the app is making the employees more accountable 
-and the owners have confirmed more accurate pay, since the data is available. 
-<br/>
+and the owners have confirmed more accurate pay, since the data is available. <br/>
+
 So in essence, this app which I developed streamlined business operations and 
 enhanced employee accountability which are always welcomed improvements. 
 <br/>
