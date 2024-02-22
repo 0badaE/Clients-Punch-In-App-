@@ -4,11 +4,11 @@ Link: https://clock-in-app-6a37d.web.app/
 <h3> My first Full-Stack App Built for a Customer </h3>
 
 <h4> This project was built using: </h4> 
-- React
-- React-Router-Dom
-- Google Firestore (DB)
-- Google Firebase (uAuth)
-- CSS
+- React <br/>
+- React-Router-Dom <br/>
+- Google Firestore (DB) <br/>
+- Google Firebase (uAuth) <br/>
+- CSS<br/>
 
 The goal of this project is to enhance business operations, 
 specifically by recording the times employees punch in, break or out. 
