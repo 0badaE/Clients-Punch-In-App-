@@ -1,4 +1,4 @@
-Punch In App (For Tablette or Desktop) 
+Punch In App (For Tablet or Desktop) 
 Demo Link: https://clinquant-wisp-c7b7db.netlify.app/
 
 <h3> My first Full-Stack App Built for a Customer </h3>
